@@ -1,16 +1,26 @@
-git init
+// git init
+
+// git status --> current state of our file
 
 git states:
 
-untracked
+untracked ---
 unmodified
 modified
 
-staged
+staged ---
 
 commited
 
 
-git add . --> all the files
-git add one.txt --> only single file
-git add one.txt two.txt  --> multiple files
+// git add . --> all the files
+// git add one.txt --> only single file
+// git add one.txt two.txt  --> multiple files
+
+
+// all the files in the staging area make a snapshot of it
+
+// git commit -m "first commit" --> 
+
+
+// git restore --staged <file>...
