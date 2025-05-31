@@ -24,3 +24,13 @@ commited
 // git log
 
 // git restore --staged <file>...
+
+// git diff -- untracked changes and staging area
+
+
+=================
+// git add . --> untrack to staging
+// git commit -m "firt commit" --> staging to commit
+
+// git commit -a -m "first commit" --> untrack to staging - commit
+==============
