@@ -34,3 +34,9 @@ commited
 
 // git commit -a -m "first commit" --> untrack to staging - commit
 ==============
+
+// git log -p -2 --> it will show last two commit
+
+// git log --stat
+
+// git log --pretty=oneline
