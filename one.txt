@@ -53,5 +53,11 @@ commited
 // git push origin main --> (commits -- remote repository - github) 
 
 
+alias - make your alias
+##############################
+git config --global alias.ac 'commit -a -m'
 log -p -2 
 commit -a -m
+
+################################
+
