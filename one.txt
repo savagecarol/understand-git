@@ -1,0 +1,16 @@
+git init
+
+git states:
+
+untracked
+unmodified
+modified
+
+staged
+
+commited
+
+
+git add . --> all the files
+git add one.txt --> only single file
+git add one.txt two.txt  --> multiple files
