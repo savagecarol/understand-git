@@ -17,10 +17,10 @@ commited
 // git add one.txt --> only single file
 // git add one.txt two.txt  --> multiple files
 
-
 // all the files in the staging area make a snapshot of it
 
 // git commit -m "first commit" --> 
 
+// git log
 
 // git restore --staged <file>...
