@@ -40,3 +40,18 @@ commited
 // git log --stat
 
 // git log --pretty=oneline
+
+// git remote add origin <>
+// git push origin main
+// git clone <url>
+
+
+// git --> distributed
+
+// git add . --> untrack to staging
+// git commit -m "sdfdsf" --> staging to commit (version control on local)
+// git push origin main --> (commits -- remote repository - github) 
+
+
+log -p -2 
+commit -a -m
